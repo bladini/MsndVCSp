@@ -10,7 +10,7 @@ namespace MsndVCSp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world! What's up?");
             Console.ReadLine();
         }
     }
